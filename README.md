@@ -26,8 +26,6 @@ The steps involved in the **Policy Iteration Algorithm** are:
 4. **Check for Convergence**  
    - If the policy does not change (π′ = π), then the policy is optimal and the algorithm terminates.
    - Otherwise, repeat steps 2 and 3.
-</br>
-</br>
 
 ## POLICY IMPROVEMENT FUNCTION
 ### Name : DHARSHINI K
