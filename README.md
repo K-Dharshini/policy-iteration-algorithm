@@ -57,7 +57,7 @@ def policy_improvement(V, P, gamma=1.0):
 
 ### 3. Policy, Value function and success rate after policy iteration
 <img width="552" height="186" alt="image" src="https://github.com/user-attachments/assets/a8de2f65-bad5-4eb3-9683-fe01491ce564" />
-<img width="919" height="623" alt="image" src="https://github.com/user-attachments/assets/eed0a6bd-b0e9-4a80-90cb-fc431b94815e" />
+<img width="827" height="714" alt="image" src="https://github.com/user-attachments/assets/879767f3-ed9a-43c1-928b-c2abc7a40381" />
 
 ## RESULT
 The Policy Iteration Algorithm was implemented successfully. The results show that the adversarial policy performed poorly, the improved policy achieved a better success rate, and the final policy after iteration converged to the optimal solution with maximum success rate.
